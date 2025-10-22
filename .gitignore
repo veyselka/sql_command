@@ -4,13 +4,10 @@
 *.swp
 *.swo
 
-# İşletim sistemi dosyaları
+# Sistem dosyaları
 .DS_Store
 Thumbs.db
 
-# Veritabanı dosyaları
-*.sqlite
-*.db
-
-# Log dosyaları
+# Geçici dosyalar
 *.log
+*.tmp
