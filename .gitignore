@@ -1,0 +1,16 @@
+# IDE ve düzenleyici dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Veritabanı dosyaları
+*.sqlite
+*.db
+
+# Log dosyaları
+*.log
